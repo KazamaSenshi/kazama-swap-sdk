@@ -8,7 +8,7 @@ You can refer to the Uniswap SDK documentation [uniswap.org](https://uniswap.org
 
 To run the tests, follow these steps. You must have at least node v10 and [yarn](https://yarnpkg.com/) installed.
 
-First clone the repository:
+First clone the kazama-swap-sdk repository:
 
 ```sh
 git clone https://github.com/KazamaSenshi/kazama-swap-sdk.git
